@@ -1,64 +1,72 @@
-# 👋 Hi, I'm Tauhid Shaikh | Full Stack Developer
+<h1 align="center">Hi there 👋, I'm Tauhid Shaikh</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Backend Specialist</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tauhids-projects-11374b6e.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tohid4641)
-
-### 🚀 **About Me**
-Full Stack Developer with **3+ years** of experience building scalable web applications using the **MERN stack** and modern DevOps practices. Passionate about optimizing performance, designing robust APIs, and delivering seamless user experiences. Successfully delivered **10+ production-grade projects** with measurable impact, including a 30% latency reduction in real-time tracking systems and 20% faster CI/CD deployments.
-
----
-
-### 🔧 **Tech Stack**
-#### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-#### **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### **DevOps & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p align="center">
+  <a href="https://portfolio-tauhids-projects-11374b6e.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shaikh-tauhid-1a9787208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tohid4641@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 🏆 **Featured Projects**
-| Project | Tech Stack | Key Achievements |
-|---------|------------|------------------|
-| **[CloudXperte](https://github.com/Tohid4641/CloudXperte)** | React, Node.js, MySQL | Improved cost estimation accuracy by **40%** using Function Point Algorithm |
-| **[Testreveal](https://github.com/Tohid4641/Testreveal)** | Node.js, EJS, SendGrid | Automated PDF generation, reducing manual work by **50%** |
-| **[Vehicle Tracking Qatar](https://github.com/Tohid4641/Vehicle-Tracking)** | Socket.io, JWT, CRM | Reduced OTP verification latency by **30%** |
+### 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with over 3 years of experience in building scalable web applications using the MERN stack. My expertise lies in backend development, API integration, and optimizing performance for high-traffic applications. I thrive in collaborative environments and am always eager to learn and implement new technologies.
 
 ---
 
-### 💼 **Experience**
-- **Node.js Backend Developer @ Redbytes Software** (2022–2024)  
-  Built RESTful APIs for SaaS platforms serving **10k+ users**, optimized CI/CD pipelines with Docker, achieving **20% faster deployments**.
-  
-- **MERN Developer @ Tekisky Pvt. Ltd.** (2021–2022)  
-  Integrated real-time data sync for **50k+ monthly users** and reduced bounce rates by **10%** through UX optimizations.
+### 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React.js, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL, MongoDB
+- **DevOps:** AWS (EC2, S3), Git, GitHub, PM2
+- **Others:** JWT, Socket.IO, RESTful APIs, Postman
 
 ---
 
-### 📚 **Education & Certifications**
-- **B.Tech in Electronics & Telecommunication**  
-  Dr. Babasaheb Ambedkar Technological University (2021)  
-- **Diploma in Python Web Development**  
-  FirstBit Solutions (300-hour program | 2021)
+### 🚀 Projects
+
+#### [Jamaat Timing Application](https://github.com/Tohid4641/jamaat-timing-app-frontend)
+An Islamic web platform providing live Jamaat and Adhaan timings for registered mosques. Features a multi-role admin approval system, real-time updates, and a structured workflow for masjid registration and timing chart uploads. *(In Progress)*
+
+#### [DevTinder](https://github.com/Tohid4641/devTinder)
+A developer matchmaking platform featuring real-time chat, subscription plans, and secure payment integration. Built during the Namaste Node.js course by Akshay Saini to showcase advanced backend skills including WebSocket communication, JWT authentication, and manual AWS deployment.
+
+#### [Animal Application](https://animalsapp.in/)
+A comprehensive healthcare ecosystem for pet owners and service providers. Developed core APIs for customer profiles, appointments, orders, and prescriptions. Led backend development, database management, and AWS deployments.
+
+#### [ERP (Enterprise Resource Planning) Tools](https://www.webapplicationdevelopmentcost.com/web-app-cost-calculator/)
+ERP tools designed to streamline cost estimation and hiring processes for web and mobile applications, as well as software testing services. These platforms provided clients with interactive calculators and hiring modules, enhancing decision-making and operational efficiency.
+
+#### [Transport Management System - UAE & Qatar](https://www.vehicletracking.qa/)
+I was responsible for developing and integrating backend services for vehicle tracking and fleet management platforms, specifically focusing on the demo modules and subscription pricing calculators
+
+#### [Mujtaba Helping Foundation](https://mhfglobal.com/)
+A community service app enabling users to access membership details, health records, event updates, and participate in surveys. Implemented features like membership card downloads, report generation, WhatsApp integration, and push notifications.
 
 ---
 
-### 📫 **Let's Connect!**
-- 📧 **Email**: dev.tauhid@gmail.com  
-- 🌐 **Portfolio**: [portfolio-tauhids-projects-11374b6e.vercel.app](https://portfolio-tauhids-projects-11374b6e.vercel.app/)  
-- 💻 **GitHub**: [github.com/Tohid4641](https://github.com/Tohid4641)  
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tohid4641&show_icons=true&theme=radical" alt="Tauhid's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** [tohid4641@gmail.com](mailto:tohid4641@gmail.com)
+- **LinkedIn:** [shaikh-tauhid-1a9787208](https://www.linkedin.com/in/shaikh-tauhid-1a9787208/)
+- **Portfolio:** [portfolio-tauhids-projects](https://portfolio-tauhids-projects-11374b6e.vercel.app/)
+
+Feel free to reach out for collaborations, project discussions, or just a friendly chat!
+
