@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer with over 3 years of experience in building scalable web applications using the MERN stack. My expertise lies in backend development, API integration, and optimizing performance for high-traffic applications. I thrive in collaborative environments and am always eager to learn and implement new technologies.
+I'm a passionate Full Stack Developer with over 4 years of experience in building scalable web applications using the MERN stack. My expertise lies in backend development, API integration, and optimizing performance for high-traffic applications. I thrive in collaborative environments and am always eager to learn and implement new technologies.
 
 ---
 
